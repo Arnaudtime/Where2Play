@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "description": "Where2Play",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Where2Play",
+  "orientation": "any",
+  "scope": "/Where2Play/",
+  "short_name": "",
+  "start_url": "/Where2Play/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "games"
+  ],
+  "screenshots": [],
+  "icons":[
+    {
+      "src": "128.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "fr"
+}
