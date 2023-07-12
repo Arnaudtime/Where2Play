@@ -6,7 +6,7 @@
   "name": "Where2Play",
   "orientation": "any",
   "scope": "/Where2Play/",
-  "short_name": "",
+  "short_name": "Where2Play",
   "start_url": "/Where2Play/",
   "theme_color": "#ffffff",
   "categories": [
