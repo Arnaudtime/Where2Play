@@ -9,6 +9,13 @@
         <link rel="manifest" href="manifest.json" />
     </head>
     <body>
-        a
+        <script>
+          		if (navigator.serviceWorker) {
+            		navigator.serviceWorker.register (
+              			'/Where2Play/pwabuilder-sw.js',
+              			{scope: '/Where2Play/'}
+            			)
+         			}
+      	</script>
     </body>
 </html>
