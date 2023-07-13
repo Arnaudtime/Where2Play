@@ -1,0 +1,38 @@
+body {
+    background-color: #eee8e8;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: flex;
+    align-items: center;
+    width: 300px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    font-size: 20px;
+    border-radius: 60px;
+    padding: 30px;
+}
+
+
+
+
