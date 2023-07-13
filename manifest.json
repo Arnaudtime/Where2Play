@@ -3,10 +3,10 @@
   "description": "Where2Play",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Where2Play",
+  "name": "arnaudtime.github",
   "orientation": "any",
   "scope": "/Where2Play/",
-  "short_name": "Where2Play",
+  "short_name": "arnaudtime.github",
   "start_url": "/Where2Play/",
   "theme_color": "#ffffff",
   "categories": [
